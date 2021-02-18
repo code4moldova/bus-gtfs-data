@@ -30,9 +30,9 @@ The General Transit Feed Specification (GTFS) defines a common format for public
 
 #### How do I get the data? 
 
-1.Using this [endpoint](https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/data) parse and take all the stops + routes and other information.
-2.Using this https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/online/route/18864 you can take the information for a given route, in our example is route 18864.
-3. Understand all the given information and conclude if it is possible to create trips.txt .
+1.    Using this [endpoint](https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/data) parse and take all the stops + routes and other information.
+2.    Using this https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/online/route/18864 you can take the information for a given route, in our example is route 18864.
+3.    Understand all the given information and conclude if it is possible to create trips.txt .
 
 
 
