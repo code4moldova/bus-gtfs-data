@@ -1,6 +1,6 @@
 # hack-busses-gtfs
 
-Currently, information about busses is not available on google maps. There are few sources of information which has to be parsed and aggregated for Google Maps. An example for trolleys is [here](https://github.com/roataway/gtfs-data)
+Currently information about busses is not available on google maps. There are few sources of information which has to be parsed and aggregated for Google Maps. An example for trolleys is [here](https://github.com/roataway/gtfs-data)
 
 # What is GTFS?
 
