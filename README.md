@@ -1,5 +1,7 @@
 # hack-busses-gtfs
 
+Currently, information about busses is not available on google maps. There are few sources of information which has to be parsed and aggregated for Google Maps. An example for trolleys is [here](https://github.com/roataway/gtfs-data)
+
 # What is GTFS?
 
 The General Transit Feed Specification (GTFS) defines a common format for public transportation schedules and associated geographic information. GTFS "feeds" allow public transit agencies to publish their transit data and developers to write applications that consume that data in an interoperable way.
@@ -28,7 +30,12 @@ The General Transit Feed Specification (GTFS) defines a common format for public
 
 #### How do I get the data? 
 
-1.Using this [endpoint](https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/data) parse and take all the stops. 
+1.Using this [endpoint](https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/data) parse and take all the stops + routes and other information.
+2.Using this https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/online/route/18864 you can take the information for a given route, in our example is route 18864.
+3. Understand all the given information and conclude if it is possible to create trips.txt .
+
+
+
 
 
 
