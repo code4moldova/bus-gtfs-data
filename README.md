@@ -12,6 +12,9 @@ The General Transit Feed Specification (GTFS) defines a common format for public
 4.  Test your feed using using gtfs validators(check below)
 
 
+
+
+
 #### GTFS Validators
 
 - [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator.
@@ -22,5 +25,12 @@ The General Transit Feed Specification (GTFS) defines a common format for public
 - [gtfs-validator](https://github.com/MobilityData/gtfs-validator) - An open-source GTFS validator implemented in Java licensed under Apache v2.0 maintained by [MobilityData](https://mobilitydata.org/).
 - [GTFSVTOR](https://github.com/mecatran/gtfsvtor) - An open-source GTFS validator implemented in Java licensed under GPLv3 maintained by [Mecatran](https://www.mecatran.com/).
 - [Transport Validator](https://github.com/etalab/transport-validator/) - An open-source validator implemented in [Rust](https://www.rust-lang.org/). Used by the [French National Access Point](https://transport.data.gouv.fr/validation/).
+
+#### How do I get the data? 
+
+1.Using this [endpoint](https://nimbus.wialon.com/api/locator/5f59baffc37144a3939d21bd8acc5e45/data) parse and take all the stops. 
+
+
+
 
 
