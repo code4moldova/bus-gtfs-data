@@ -1,0 +1,73 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+18864,PUA,5,Tur,3
+18871,PUA,5,Retur,3
+18979,PUA,19,Tur,3
+18980,PUA,19,Retur,3
+19005,PUA,26,Tur,3
+19006,PUA,26,Retur,3
+19376,PUA,2,Tur,3
+19377,PUA,2,Retur,3
+19386,PUA,9,Tur Valea Apelor,3
+19391,PUA,9,Retur,3
+20552,PUA,11,Tur,3
+20553,PUA,11,Retur,3
+20566,PUA,65,Tur,3
+20567,PUA,65,Retur,3
+20591,PUA,16,Tur,3
+20592,PUA,16,Retur,3
+20596,PUA,24,Tur,3
+20598,PUA,24,Retur,3
+20634,PUA,28,Tur,3
+20635,PUA,28,Retur,3
+20680,PUA,10,Tur,3
+20681,PUA,10,Retur,3
+20689,PUA,46,Tur,3
+20690,PUA,46,Retur,3
+20753,PUA,48,Tur,3
+20754,PUA,48,Retur,3
+20787,PUA,39,Tur,3
+20788,PUA,39,Retur,3
+20824,PUA,31,Tur,3
+20825,PUA,31,Retur,3
+20836,PUA,9,Tur,3
+20837,PUA,9,Retur Valea Apelor,3
+21090,PUA,16,TOPAZ Tur,3
+21257,PUA,4,Tur - Strasteni - Braila,3
+21258,PUA,4,Tur - Strasteni - Braila,3
+21259,PUA,4,Tur,3
+21260,PUA,4,Tur - Braila - Strasteni,3
+21262,PUA,4,Retur - Braila - Strasteni,3
+21265,PUA,4,Retur - Braila - Strasteni,3
+21266,PUA,4,Retur,3
+21267,PUA,4,Retur,3
+21275,PUA,4,Tur - Braila - Strasteni,3
+21304,PUA,18,Tur Revca,3
+21305,PUA,18,Tur Singera,3
+21306,PUA,18,Retur,3
+21323,PUA,38,Retur,3
+21324,PUA,38,Tur  Mare,3
+21326,PUA,47,Tur,3
+21327,PUA,47,Retur,3
+21328,PUA,47,Retur,3
+21339,PUA,44,Tur str. Bacioii Noi,3
+21343,PUA,44,Tur Galata,3
+21344,PUA,44,Retur str. Bacioii Noi,3
+21345,PUA,44,Retur Galata,3
+21354,PUA,33,Tur,3
+21364,PUA,33,Tur str. Tineretului,3
+21365,PUA,33,Retur,3
+21366,PUA,33,Retur Primaria Singera,3
+21367,PUA,33,Retur Tineretului - Primaria Singera,3
+21368,PUA,33,Retur Tineretului,3
+21414,PUA,49,Tur,3
+21415,PUA,49,Tur,3
+21416,PUA,49,Tur Frumusica,3
+21417,PUA,49,Tur Frumusica,3
+21418,PUA,49,Tur Brig Tractoare,3
+21420,PUA,49,Tur,3
+21421,PUA,49,Tur Braila,3
+21422,PUA,49,Retur,3
+21423,PUA,49,Retur,3
+21424,PUA,49,Retur Frumusica,3
+21426,PUA,49,Retur,3
+23347,PUA,4,tur,3
